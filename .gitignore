@@ -1,0 +1,14 @@
+QC_Output/
+__pycache__/
+*.pyc
+.DS_Store
+*.pdf
+*.xlsx
+evaluation/
+.gemini/
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/

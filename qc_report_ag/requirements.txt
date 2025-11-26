@@ -1,0 +1,7 @@
+pymupdf
+opencv-python-headless
+pytesseract
+pandas
+xlsxwriter
+numpy
+streamlit
